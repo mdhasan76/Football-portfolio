@@ -19,13 +19,3 @@
     display: flex;
     justify-content: space-between;
 }
-
-.cart>.last {
-    display: inherit;
-}
-
-@media (max-width:800px) {
-    .carts .live .last {
-        display: block;
-    }
-}

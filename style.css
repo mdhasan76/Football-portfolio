@@ -348,6 +348,10 @@ footer h3 {
         visibility: hidden;
 
     }
+
+    .footer-menu a {
+        display: block;
+    }
 }
 
 @media (max-width:400px) {
