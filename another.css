@@ -1,3 +1,7 @@
+.match-slider-img {
+    width: 61%;
+}
+
 .live-text {
     text-align: center;
 }
@@ -15,11 +19,3 @@
     display: flex;
     justify-content: space-between;
 }
-
-.match-img .match-img1 {}
-
-.match-img .match-img1 img {}
-
-.match-img .match-img2 {}
-
-.match-img .match-img2 img {}

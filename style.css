@@ -195,7 +195,10 @@ footer h3 {
 
 
 
-.social-icon i {
+
+.social-icon a i {
+    text-decoration: none;
+    color: white;
     padding: 10px 15px;
     font-size: 28px;
 }
@@ -336,6 +339,12 @@ footer h3 {
 
     .carts {
         grid-template-columns: 1fr;
+    }
+
+    .view-all-btn {
+
+        visibility: hidden;
+
     }
 }
 
