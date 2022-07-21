@@ -6,6 +6,11 @@
     text-align: center;
 }
 
+.active-page {
+    background-color: rgb(188, 57, 221);
+    color: white;
+}
+
 .live-text h3 {
     padding: 10px 0;
 }

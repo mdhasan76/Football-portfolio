@@ -110,6 +110,11 @@ Live Section
     transition: .3s ease-in-out;
 }
 
+.active {
+    background-color: rgb(188, 57, 221);
+    color: white;
+}
+
 .live-btn a {
     text-decoration: none;
     color: black;
