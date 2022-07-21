@@ -351,6 +351,7 @@ footer h3 {
 
     .footer-menu a {
         display: block;
+        padding: 13px;
     }
 }
 
